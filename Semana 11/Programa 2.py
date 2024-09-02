@@ -6,7 +6,7 @@ matriz = [
 ]
 
 # Función para ordenar una fila de manera descendente utilizando Bubble Sort
-def bubble_sort_fila_desendente(fila):
+def bubble_sort_fila_descendente(fila):
     n = len(fila)
     for i in range(n - 1):
         for j in range(n - i - 1):
@@ -24,7 +24,7 @@ mostrar_matriz(matriz)
 
 # Ordenar cada fila de la matriz utilizando Bubble Sort
 for fila in matriz:
-    bubble_sort_fila_desendente(fila)
+    bubble_sort_fila_descendente(fila)
 
 # Mostrar la matriz ordenada
 print("\nMatriz Ordenada por Filas:")
