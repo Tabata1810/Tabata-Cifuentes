@@ -1,4 +1,4 @@
-# Crear una matriz bidimensional (3x3) para el ejemplo.txt
+# Crear una matriz bidimensional (3x3)
 matriz = [
     [1, 9, 5],
     [2, 7, 6],
