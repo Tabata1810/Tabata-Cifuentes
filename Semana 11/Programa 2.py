@@ -5,7 +5,7 @@ matriz = [
     [3, 8, 4]
 ]
 
-# Función para ordenar una fila de manera ascendente utilizando Bubble Sort
+# Función para ordenar una fila de manera descendente utilizando Bubble Sort
 def bubble_sort_fila_desendente(fila):
     n = len(fila)
     for i in range(n - 1):
