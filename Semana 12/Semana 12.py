@@ -1,7 +1,7 @@
 # Definimos la matriz 3D con datos de temperaturas
 print("Promedio de temperaturas de 3 ciudades durante 3 semanas")
 print("")
-# Suponemos 3 ciudades, 7 ndías (de lunes a domingo) y 3 semanas
+# Suponemos 3 ciudades, 7 días (de lunes a domingo) y 3 semanas
 temperaturas = [
     # Manta
     [
