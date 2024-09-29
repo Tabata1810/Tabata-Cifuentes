@@ -22,5 +22,6 @@ if "edad" in informacion_personal:
 
 # Imprimos el perfil final usando un bucle for
 print("Perfil final:")
+print("")
 for clave, valor in informacion_personal.items():
     print(f"{clave}: {valor}")
